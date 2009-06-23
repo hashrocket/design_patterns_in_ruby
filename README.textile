@@ -1,0 +1,3 @@
+h1. Hashrocket Book Club for Design Patterns in Ruby
+
+Wherein we reimplement the design patterns from the book.
